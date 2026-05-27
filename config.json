@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdave",
+        "uuid": 8271396,
+        "checksum": "2m8nty"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
